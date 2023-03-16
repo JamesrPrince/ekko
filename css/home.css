@@ -12,6 +12,10 @@ hr {
     width: 5%;
 }
 
+h1, h3 {
+    color: #66bfbf;
+}
+
 #head-shot {
     width: 220px;
     height: 220px;
