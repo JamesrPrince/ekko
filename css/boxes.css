@@ -3,28 +3,17 @@
 }
 */
 
-.top-box {
+.top-container {
     background-color: beige;
-    border: solid 10px;
     padding: 20px;
-    width: 200px;
-    height: 200px;;
 }
 
-.mid-box {
+.mid-container {
     background-color: blue;
-    border: solid 20px;
     padding: 20px;
-    margin-left: 260px;
-    width: 200px;
-    height: 200px;
 }
 
-.bottom-box {
+.bottom-container {
     background-color: green;
-    border: solid 10px;
     padding: 20px;
-    margin-left: 540px;
-    width: 200px;
-    height: 200px;
 }
